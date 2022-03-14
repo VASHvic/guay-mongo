@@ -1,0 +1,6 @@
+instalar nest mongoose y mongoose
+agregar mongo a app module
+crear schema de mongoose
+crear users module
+agregar mongoose.foreFeature name¿?¿ y schema
+En repository injectar el model
